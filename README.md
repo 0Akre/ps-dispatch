@@ -1,1 +1,3 @@
-# ps-dispatch
+# QBCore Dispatch
+Integrated with ps-mdt
+
